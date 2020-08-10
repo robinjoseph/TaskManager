@@ -1,0 +1,18 @@
+{
+    "/api/projects/*": {
+        "target" : "https://localhost:44357",
+        "secure" : false
+    },
+    "/api/users/*": {
+        "target" : "https://localhost:44357",
+        "secure" : false
+    },
+    "/api/clientlocations/*": {
+        "target" : "https://localhost:44357",
+        "secure" : false
+    },
+    "/api/countries/*": {
+        "target" : "https://localhost:44357",
+        "secure" : false
+    }
+}
